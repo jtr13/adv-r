@@ -4,3 +4,7 @@
 
 This is code and text behind the [Advanced R programming](http://adv-r.hadley.nz)
 book.  The site is built with [bookdown](https://bookdown.org/yihui/bookdown/).
+
+1 [Preface](Preface.Rmd)
+
+2 [Introduction](Introduction.Rmd)
