@@ -58,3 +58,4 @@ The meat of the book is now organised around the three most important programmin
 * R's C interface moving to the work-in-progress 
   <https://github.com/hadley/r-internals>
 
+Next: [Introduction](Introduction.Rmd)
